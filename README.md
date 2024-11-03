@@ -1,5 +1,5 @@
 # Check Ping Discord Bot
-Simple discord code bot in python with the feature of check your ping, with `ping google.com`  
+
 ---
 ## Features ; </br>
 - **Using Embed**
