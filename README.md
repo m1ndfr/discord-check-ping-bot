@@ -1,12 +1,20 @@
-# Check-Ping-Bot_discord
+# Check Ping Discord Bot
 Simple discord code bot in python with the feature of check your ping, with `ping google.com`  
-
 ---
-> HOW TO USE : </br>
-```
-1. pip install discord.py
-2. enter discord bot TOKEN
-3. !ping
-```
+## Features ; </br>
+- **Using Embed**
+- **Using Command**
+- **Using Ping google.com API**
 
-# DON'T FORGET TO STAR THIS REPOS :)
+## How to use ? </br>
+- **Install Python [Install Python](https://www.python.org/downloads/windows/) (If you have installed this. Skip step directly)**
+- **Install discord.py (pip install discord.py)**
+- **Change Discord TOKEN**
+- **Run index.py in Terminal / CMD (py index.py)**
+- **Use !ping**</br>
+
+## Contact ;
+- **Any Error ? Contact me on discord (smth.oppenheimer)**
+---
+
+# DON'T FORGET TO STAR THIS REPOS 💖
