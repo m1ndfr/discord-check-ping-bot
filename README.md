@@ -3,7 +3,7 @@
 ---
 ## Features ; </br>
 - **Using Embed**
-- **Using Command**
+- **Using Slash Command**
 - **Using Ping google.com API**
 
 ## How to use ? </br>
