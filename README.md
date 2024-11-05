@@ -11,7 +11,7 @@
 - **Install discord.py (pip install discord.py)**
 - **Change Discord TOKEN**
 - **Run index.py in Terminal / CMD (py index.py)**
-- **Use !ping**</br>
+- **Use `/ping`**</br>
 
 ## Contact ;
 - **Any Error ? Contact me on discord (smth.oppenheimer)**
